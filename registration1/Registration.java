@@ -2,7 +2,7 @@ package registration1;
 
 import java.util.Scanner;
 
-public class Registration implements MethodCheck {
+public class Registration implements   MethodCheck {
 
   private String firstName;
   private String lastName;
